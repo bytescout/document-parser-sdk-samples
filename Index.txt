@@ -6,7 +6,10 @@
 \_Sample Templates
 \C#\Create Custom Template
 \C#\Parse Simple Document
+\C#\Parse with OCR
 \VB.NET\Create Custom Template
 \VB.NET\Parse Simple Document
+\VB.NET\Parse with OCR
 \VBScript and VB6\Create Custom Template
 \VBScript and VB6\Parse Simple Document
+\VBScript and VB6\Parse with OCR
