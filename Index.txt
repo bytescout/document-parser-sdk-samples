@@ -5,9 +5,12 @@
 \VBScript and VB6
 \_Sample Templates
 \C#\Create Custom Template
+\C#\Parse and Generate HL7 Output
 \C#\Parse Multipage Table
 \C#\Parse Simple Document
 \C#\Parse with OCR
+\C#\Parse and Generate HL7 Output\InputData
+\C#\Parse and Generate HL7 Output\Src
 \VB.NET\Create Custom Template
 \VB.NET\Parse Multipage Table
 \VB.NET\Parse Simple Document
