@@ -5,6 +5,7 @@
 \VBScript and VB6
 \_Sample Templates
 \C#\Create Custom Template
+\C#\Extract line items from tables on multiple pages
 \C#\Parse and Generate HL7 Output
 \C#\Parse Multipage Table
 \C#\Parse Simple Document
@@ -13,11 +14,13 @@
 \C#\Parse and Generate HL7 Output\InputData
 \C#\Parse and Generate HL7 Output\Src
 \VB.NET\Create Custom Template
+\VB.NET\Extract line items from tables on multiple pages
 \VB.NET\Parse Multipage Table
 \VB.NET\Parse Simple Document
 \VB.NET\Parse with OCR
 \VB.NET\Parsing and reading data from Airline Tickets
 \VBScript and VB6\Create Custom Template
+\VBScript and VB6\Extract line items from tables on multiple pages
 \VBScript and VB6\Parse Multipage Table
 \VBScript and VB6\Parse Simple Document
 \VBScript and VB6\Parse with OCR
