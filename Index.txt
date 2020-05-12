@@ -3,7 +3,6 @@
 \C#
 \VB.NET
 \VBScript and VB6
-\_Sample Templates
 \C#\Blood Test Results to JSON
 \C#\Create Custom Template
 \C#\Extract line items from tables on multiple pages
