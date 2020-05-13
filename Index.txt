@@ -6,6 +6,7 @@
 \C#\Blood Test Results to JSON
 \C#\Create Custom Template
 \C#\Extract line items from tables on multiple pages
+\C#\Extract Text from Foldable Brochure Booklet
 \C#\Parse and Generate HL7 Output
 \C#\Parse Multipage Table
 \C#\Parse Simple Document
@@ -16,6 +17,7 @@
 \VB.NET\Blood Test Results to JSON
 \VB.NET\Create Custom Template
 \VB.NET\Extract line items from tables on multiple pages
+\VB.NET\Extract Text from Foldable Brochure Booklet
 \VB.NET\Parse Multipage Table
 \VB.NET\Parse Simple Document
 \VB.NET\Parse with OCR
