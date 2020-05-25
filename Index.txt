@@ -4,6 +4,7 @@
 \VB.NET
 \VBScript and VB6
 \C#\Blood Test Results to JSON
+\C#\Census table from life and annuity quote request pdf
 \C#\Create Custom Template
 \C#\Extract line items from tables on multiple pages
 \C#\Extract Text from Foldable Brochure Booklet
@@ -15,6 +16,7 @@
 \C#\Parse and Generate HL7 Output\InputData
 \C#\Parse and Generate HL7 Output\Src
 \VB.NET\Blood Test Results to JSON
+\VB.NET\Census table from life and annuity quote request pdf
 \VB.NET\Create Custom Template
 \VB.NET\Extract line items from tables on multiple pages
 \VB.NET\Extract Text from Foldable Brochure Booklet
