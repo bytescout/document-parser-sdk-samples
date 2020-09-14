@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \C#
+\Delphi
 \VB.NET
 \VBScript and VB6
 \C#\Blood Test Results to JSON
@@ -16,6 +17,9 @@
 \C#\Parsing and reading data from Airline Tickets
 \C#\Parse and Generate HL7 Output\InputData
 \C#\Parse and Generate HL7 Output\Src
+\Delphi\Create Custom Template
+\Delphi\Parse Multipage Table
+\Delphi\Parsing and reading data from Airline Tickets
 \VB.NET\Blood Test Results to JSON
 \VB.NET\Census table from life and annuity quote request pdf
 \VB.NET\Create Custom Template
