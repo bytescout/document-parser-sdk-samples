@@ -2,6 +2,7 @@
 
 \C#
 \Delphi
+\SharePoint
 \VB.NET
 \VBScript and VB6
 \C#\Blood Test Results to JSON
@@ -20,6 +21,11 @@
 \Delphi\Create Custom Template
 \Delphi\Parse Multipage Table
 \Delphi\Parsing and reading data from Airline Tickets
+\SharePoint\Parse Invoice to CSV
+\SharePoint\Parse Invoice to CSV\Features
+\SharePoint\Parse Invoice to CSV\ocrdata
+\SharePoint\Parse Invoice to CSV\VisualWebPart1
+\SharePoint\Parse Invoice to CSV\Features\Feature1
 \VB.NET\Blood Test Results to JSON
 \VB.NET\Census table from life and annuity quote request pdf
 \VB.NET\Create Custom Template
